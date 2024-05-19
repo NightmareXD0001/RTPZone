@@ -50,8 +50,4 @@ For questions, issues, or feature requests, please [submit an issue](https://git
 
 ## License
 
-<<<<<<< HEAD
 This plugin is licensed under the [GNU General Public License](https://github.com/anshxx99/RTPZone?tab=GPL-3.0-1-ov-file).
-=======
-This plugin is licensed under the [GNU General Public License](https://github.com/anshxx99/RTPZone?tab=GPL-3.0-1-ov-file).
->>>>>>> origin/main
